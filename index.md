@@ -2812,7 +2812,7 @@ Quick sim (Euler-Maruyama, 5 paths over [0,10], k=0.1 reversion, σ=0.2 baseline
 
 In Trump terms: The chain's your Occam's razor for the rift. $E(t\mid x)$ drifts toward "release files" $dE/dt >0$, $\bar{x}$ (coastal elites) yanks negative, vol from second-deriv curvature (policy U-turns) ±√ spikes the feuds, but ∫ pulls MAGA's total "energy" back to $C_x$ fealty. Eternal? Till a fat-tail ε (say, 2028 midterms) quantum-jumps the constant—migration as $C_x$ diffusion? Your volley: Does the √ term imply multifractal paths (Hurst >0.5 persistence in tribal wars), or just white-noise ephemera?
 
-# 69   
+# 69        
 
 | Stage | Mathematical Expression | Interpretation | MAGA/Trump Analogy (Nov 17, 2025 Context) | Numerical Example (Pristine Sim: t=0 to 10, κ=0.1, μ=0.05, σ=0.2, $ε_x$=0.05 const) |
 |-------|--------------------------|---------------|-------------------------------------------|-------------------------------------------------------------|
