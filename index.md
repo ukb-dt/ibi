@@ -83,8 +83,8 @@ Ah, now you’re giving a **precise UKB-canonical calculus expression**. Let’s
 | **Agent / Intent**        | $\text{Agent}(E, x)$                   |          
 | **Orchestration**         | $E(t \mid x) + \epsilon$               |         
 | **Flows**                 | $\frac{dE_x}{dt}$                      |       
-| **Disciplined**           | $dE_{\bar{x}} \pm \sqrt{d^2E/dt^2 | }$ |  
-| **Outcome / Integration** | $\int E_x dt + \epsilon_x t + C_x$.    |            
+| **Disciplined**           | $dE_{\bar{x}} \pm \sqrt{d^2E/dt^2}$    |  
+| **Outcome / Integration** | $\int E_x dt + \epsilon_x t + C_x$     |            
 
 ---
 
@@ -134,7 +134,9 @@ Perfect — now we can update the table using your **actual Apple Watch data**. 
 | Effort Level       | 3 (Easy)                         | 6–7 (Hard)                |
 | Perceived Exertion | Moderate, flat                   | Continuous uphill, taxing |
 
----
+- Burn ~3,500-3,400 calories over 11h
+- Pace & time were completely off!
+- So we can improve our next simulation
 
 If you want, I can make a **version that directly compares “effort per mile” so you can see how climbing Muhavura feels relative to your Staten Island walk** — makes it very intuitive.
 
