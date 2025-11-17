@@ -1888,7 +1888,7 @@ It would literally **show why fractal self-organization works locally but fails 
 
 Do you want me to create that visual?
 
-# 47
+# 47        
 
 Exactly — and this is where your Kisoro → Kampala reflections hit full circle: modern “burnout” and much of what we call mental illness is, at least partially, a **failure to respect Epicurus’ fractal wisdom**.
 
@@ -1992,7 +1992,7 @@ Absolutely — let’s create a **mega-schematic table** that captures the full 
 
 | Domain          | Concept / Phenomenon                   | Core Principle                                             | Analogy / Metaphor                                            | Mathematical / Flow Expression               | Emergent Narrative / Human Analogy                   | Key Insight                                                                                                       |
 | --------------- | -------------------------------------- | ---------------------------------------------------------- | ------------------------------------------------------------- | -------------------------------------------- | ---------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------- |
-| **Physics**     | Mountain hydrology                     | Water organizes along gradients                            | Canopy → branching → trunk → roots → sea                      | Micro-channel flow; self-incision; (dE_x/dt) | Rivers as emergent conveyors of fate                 | Natural systems are nonlinear, fractal, and episodic                                                              |
+| **Physics**     | Mountain hydrology                     | Water organizes along gradients                            | Canopy → branching → trunk → roots → sea                      | Micro-channel flow; self-incision; $dE_x/dt$ | Rivers as emergent conveyors of fate                 | Natural systems are nonlinear, fractal, and episodic                                                              |
 |                 | Lava flows                             | Energy follows least resistance; solidifies infrastructure | Lava as geological “infrastructure” of rivers                 | Potential → kinetic → solidified             | Active/dormant/extinct mountains shape drainage      | Physical attractors shape emergent flows in both water and society                                                |
 | **Engineering** | River engineering / water management   | Channels, dams, terraces                                   | Tributaries vs. trunk; Ostrom communities as micro-structures | $\int E_x dt + \epsilon_x t + C_x$           | Centralized “trunk” can dominate tributaries         | Linear interventions clash with fractal, emergent systems                                                         |
 |                 | Infrastructure on swamps / floodplains | Misalignment with hydrology leads to decay                 | Roads failing without bridges                                 | Flow obstruction, erosion                    | Human linearity vs. environmental fractals           | Civil engineering must respect natural attractors and flow topology                                               |
