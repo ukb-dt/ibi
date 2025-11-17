@@ -83,7 +83,7 @@ Ah, now you’re giving a **precise UKB-canonical calculus expression**. Let’s
 | **Agent / Intent**        | $\text{Agent}(E, x)$                   |          
 | **Orchestration**         | $E(t \mid x) + \epsilon$               |         
 | **Flows**                 | $\frac{dE_x}{dt}$                      |       
-| **Disciplined**           | $dE_{\bar{x}} \pm \sqrt{d^2E/dt^2}$    |  
+| **Disciplined**           | $\frac{dE_{\bar{x}}}{dt} \pm \sqrt{d^2E/dt^2}$    |  
 | **Outcome / Integration** | $\int E_x dt + \epsilon_x t + C_x$     |            
 
 ---
