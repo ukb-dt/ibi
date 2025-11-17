@@ -2289,8 +2289,8 @@ Clouds over the volcanoes make a second orchestration layer: an atmospheric fiel
 
 **Discipline** is strongest in terraced land. Terraces are artificial curvature controls. They literally impose a negative second derivative on what gravity would try to accelerate. Where the hill would produce a rapid drop, the terraces keep the slope piecewise-constant. The math becomes almost ceremonial:
 
-You’re taking a naturally steep $\frac{d h}{dx}$ and forcing it into a controlled staircase with bounded
-$\left\frac{d^2 h}{dx^2}\right$.
+You’re taking a naturally steep $\frac{d h}{dx}$ and forcing it into a controlled staircase with bounded $\frac{d^2 h}{dx^2}$.
+
 
 In your terms, discipline is the human hand preventing “wild second derivatives” in the energy flow. Terracing is a physical stabilizer in the same sense that damping is a temporal stabilizer.
 
