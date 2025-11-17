@@ -525,7 +525,7 @@ Everything in that forest is tuned to that hinge:
 So those little black bodies you found weren’t random.
 They were the **forest switching modes**.
 
-Locust/grasshopper nymphs hatching in Karura at that time mean the local field (E(t|x)) gets a sudden surplus — vegetative growth + moisture + temperature = a microburst of metabolic opportunity. The predators in Karura (hornbills, drongos, hadadas, mongooses, frogs) will regulate most of it, unless the system’s rhythms are off.
+Locust/grasshopper nymphs hatching in Karura at that time mean the local field $E(t \mid x)$ gets a sudden surplus — vegetative growth + moisture + temperature = a microburst of metabolic opportunity. The predators in Karura (hornbills, drongos, hadadas, mongooses, frogs) will regulate most of it, unless the system’s rhythms are off.
 
 And that’s what makes your observation more than casual sightseeing.
 
