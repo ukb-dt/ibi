@@ -2827,13 +2827,14 @@ Fuck it indeed—$dE_x/dt$ stands alone as your unadorned stage 3 arrow, $ε_x$ 
 
 | Stage | Mathematical Expression | Interpretation | MAGA/Trump Analogy (Nov 17, 2025 Context) | Numerical Example (Pristine Sim: t=0 to 10, κ=0.1, μ=0.05, σ=0.2, ε_x=0.05 const) |
 |-------|--------------------------|---------------|-------------------------------------------|-------------------------------------------------------------|
-| **Initialization** | (E, x) | Joint: Ideology E with invariant x (core prior). | Populist E meets Anglo-x grievance. Bayesian launchpad. | E(0)=1.5 (hype), C_x=1.0 (anchor). |
-| **Conditioning** | E(t \| x) + ε_x | Perturbed evolution: Conditional ideology + constant identity-tuned Dionysian shock (ε_x flat add; levels but doesn't drive diffs). | MAGA E(t\|x) + ε_x blasts: Promises + steady grievance chaos, x-filtered (borders as ethnic bulwark in vote storm). | t=2: [E + ε_x] mean ≈1.55 (paths avg; ε_x=0.05 flat, std=0.21). Vol from W. |
-| **Drift** | dE_x / dt | Velocity: Pure ideo change rate (ε_x vanishes on diff as constant, no contribution to speed). | "Drain" push (dE_x/dt ≈0.03 avg): Delays + flip don't touch ε_x; x pulls steady positive (constant shock just offsets level). | t=5: dE_x/dt ≈0.01 (mean over dt; reversion dominates, ε_x ghosts thru). |
-| **Bifurcation & Volatility** | dE_{\bar{x}} ± √(d²E_x / dt²) | Other-mirror + curvature vol from pure ideo path (ε_x constant, Hessian untouched—vol from E bends only). | Rifts: MTG as -dE_x/dt echo, ±√(bends) ≈±0.19 from vote—second-deriv warps feuds (ε_x flat, no curve amp). | t=7: σ≈0.19 (path std); Forks: Pro reverts E≈1.57, anti mirrors scatter (ε_x offsets level, not vol). |
-| **Accumulation** | ∫ E_x dt + ε_x t + C_x | Integral: Pure ideo cumulant + linear shock accrual + anchor (ε_x rebirths via antideriv; phase 5 exact, diff-inverse). | MAGA total: ∫E_x ≈15.6 + ε_x*10=0.5 loyalty units mid-2025, C_x reins—no break. Vote? ε_x steady blip in linear. | Final ∫E_x + ε_x t + C_x ≈17.1 (path avg; ends ~1.68-1.92 orbiting C_x)—linear ε_x tilts subtle, invariant rules. |
+| **Initialization** | $(E, x)$ | Joint: Ideology E with invariant x (core prior). | Populist E meets Anglo-x grievance. Bayesian launchpad. | $E(0)=1.5$ (hype), $C_x=1.0$ (anchor). |
+| **Conditioning** | $E(t \| x) + ε_x$ | Perturbed evolution: Conditional ideology + constant identity-tuned Dionysian shock ($ε_x$ flat add; levels but doesn't drive diffs). | MAGA $E(t\|x) + ε_x$ blasts: Promises + steady grievance chaos, x-filtered (borders as ethnic bulwark in vote storm). | t=2: [$E + ε_x$] mean ≈1.55 (paths avg; $ε_x$=0.05 flat, std=0.21). Vol from W. |
+| **Drift** | dE_x / dt | Velocity: Pure ideo change rate ($ε_x$ vanishes on diff as constant, no contribution to speed). | "Drain" push ($dE_x/dt$ ≈0.03 avg): Delays + flip don't touch $ε_x$; $x$ pulls steady positive (constant shock just offsets level). | t=5: $dE_x/dt$ ≈0.01 (mean over $dt$; reversion dominates, $ε_x$ ghosts thru). |
+| **Bifurcation & Volatility** | $dE_{\bar{x}} ± √(d²E_x / dt²)$ | Other-mirror + curvature vol from pure ideo path $ε_x$ constant, Hessian untouched—vol from $E$ bends only. | Rifts: MTG as $-dE_x/dt$ echo, ±√(bends) ≈±0.19 from vote—second-deriv warps feuds ($ε_x$ flat, no curve amp). | t=7: σ≈0.19 (path std); Forks: Pro reverts $E$≈1.57, anti mirrors scatter ($ε_x$ offsets level, not vol). |
+| **Accumulation** | $∫ E_x dt + ε_x t + C_x$ | Integral: Pure ideo cumulant + linear shock accrual + anchor ($ε_x$ rebirths via antideriv; phase 5 exact, diff-inverse). | MAGA total: $∫E_x ≈15.6 + ε_x*10=0.5$ loyalty units mid-2025, $C_x$ reins—no break. Vote? $ε_x$ steady blip in linear. | Final $∫E_x + ε_x t + C_x ≈17.1$ (path avg; ends ~1.68-1.92 orbiting $C_x$)—linear $ε_x$ tilts subtle, invariant rules. |
 
 -- Grok
+
 # 71
 # 72
 # 73
