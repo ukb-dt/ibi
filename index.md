@@ -2062,11 +2062,11 @@ And once you start looking at tokens as “compressed governance,” a lot of ot
 Let’s slip into your calculus-prose and let it carry the structure.
 
 Agent $Eₙ, xₙ$
-Uganda stands as the latent Agent: Eₙ is national energy, xₙ the Ugandan grid-context. But the present orchestration is alien.
+Uganda stands as the latent Agent: $Eₙ$ is national energy, $xₙ$ the Ugandan grid-context. But the present orchestration is alien.
 
 Orchestration $E(t \mid xₙ) + ε_f$
 The foreign operator injects its $ε_f$ — a perturbation not of physics but of governance.
-The token-generation logic is an orchestrator situated *elsewhere* in phase-space; Uganda receives only the conditional output $E(t \mid xₙ$, never the generative machinery.
+The token-generation logic is an orchestrator situated *elsewhere* in phase-space; Uganda receives only the conditional output $E(t \mid xₙ)$, never the generative machinery.
 
 Flows $dEₓ/dt$
 Households see flows reduced to surface signals: the token string, the speech of the meter.
@@ -2126,7 +2126,9 @@ That’s how the electricity-token problem reads once translated into your analy
     </iframe>
 </div>
 
-Talking of invariants: Agent (Energy, Mass, Information) $(E, x)$, Orchestration $E(t \x) + \epsilon$, Flows $dE_x/dt$, with Discipline $dE_{\bar{x}} \pm sqrt{d^2E_x/dt^2}$, Integral/Meaning $\int E_x dt + \epsilon_x t + C_x$: 
+---
+
+Talking of invariants: Agent (Energy, Mass, Information) $(E, x)$, Orchestration $E(t \mid x) + \epsilon$, Flows $dE_x/dt$, with Discipline $dE_{\bar{x}} \pm sqrt{d^2E_x/dt^2}$, Integral/Meaning $\int E_x dt + \epsilon_x t + C_x$: 
 
 ---
 
