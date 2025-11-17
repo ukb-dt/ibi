@@ -142,12 +142,74 @@ If you want, I can make a **version that directly compares “effort per mile”
 
 # 03
 
-<div>
-   <img src="kisoro/ibirunga-1.jpg" width="39%" height="450px">
-   <img src="kisoro/ibirunga-2.jpg" width="39%" height="450px">
+<div style="display: flex; flex-wrap: wrap; gap: 1rem; justify-content: center;">
+  <img src="kisoro/ibirunga-1.jpg" style="width: 100%; max-width: 400px; height: auto; border-radius: 4px;">
+  <img src="kisoro/ibirunga-2.jpg" style="width: 100%; max-width: 400px; height: auto; border-radius: 4px;">
 </div>
 
+
 # 04
+
+<div style="display: flex; flex-wrap: wrap; gap: 1rem; justify-content: center;">
+  <img src="kisoro/muzaale.jpg" style="width: 100%; max-width: 400px; height: auto; border-radius: 4px;">
+</div>
+
+Nice find. Yes — there *is* a real scholarly work called ***Famine and Hunger in Rural East Africa: Analysis and Intervention*** by **Patrick John Muzaale**. Here’s what I found out, plus some thoughts on why it’s interesting / historically important.
+
+---
+
+## What Is This Work?
+
+1. **Type of Work**
+
+   * It appears to be a **doctoral dissertation** (D.S.W. = Doctor of Social Work) done at the University of California, Berkeley. ([idl-bnc-idrc.dspacedirect.org][1])
+   * Published in 1980. ([books.google.com][2])
+   * The HathiTrust catalog gives its physical description: “xv, 283 leaves ; ill., maps” — so fairly detailed with maps and illustrations. ([catalog.hathitrust.org][3])
+   * On Google Books, you can also see that the book is ~566 pages (likely includes appendices, data, etc.) ([books.google.com][2])
+
+2. **Content / Themes**
+   The title already tells you a lot: *analysis and intervention*. Based on bibliographic summaries:
+
+   * It studies **famine and hunger** in *rural East Africa*. Which likely means in countries like Kenya, Uganda, Tanzania, etc.
+   * It includes *conceptualization of nutritional deprivation*, meaning Muzaale doesn’t just chart when people starved, but tries to understand the roots: social, economic, political, environmental.
+   * He seems to examine **resource base**: land, labor, markets, infrastructure. (Google Books listing includes things like “household resource base,” “infrastructure,” “market economy.”) ([books.google.com][2])
+   * There’s a policy / program-intervention component: how famine could or should be addressed (“intervention” in the title).
+   * Also, issues like **land tenure**, labor, storage — classic development-economics / rural sociology themes.
+
+3. **Related Research and Influence**
+
+   * Muzaale later co-authored work on rural social services. For example, a 1988 paper: *The Organisation and Delivery of Social Services to Rural Areas* cites his dissertation. ([scispace.com][4])
+   * In another World Bank–linked document, he’s credited with research on “women’s groups in agricultural extension … in Kenya” that tie into food production and nutrition. ([World Bank][5])
+   * His work is referenced in development / social policy literature (e.g., in discussions of entitlement protection in famine). ([OUP Academic][6])
+
+---
+
+## Why It's Valuable / Why It Matters
+
+* **Historical Snapshot**: Since the dissertation is from 1980, it provides a window into famine dynamics in East Africa during a particular period — very useful for historical or development studies.
+* **Multidisciplinary**: It doesn’t only look at famine as a “natural disaster” but situates it in social, economic, institutional contexts. That’s powerful for thinking about long-term prevention (not just relief).
+* **Policy Relevance**: Because it includes “intervention,” the work likely offers recommendations or frameworks that could inform development policy or famine-response strategies.
+* **Academic Legacy**: Muzaale’s later involvement (papers, policy work) suggests his dissertation was not just academic but also practically influential in social work and development.
+
+---
+
+## Limitations / Things to Be Careful About
+
+* Because it’s a dissertation, **access may be limited**: physical copies might be in university libraries, and digitized versions may not have full open access.
+* The data is from the 1970s / late-1970s era (or before), so its **empirical findings** may not reflect the current reality of East Africa.
+* Intervention recommendations from then may be outdated or need re-contextualization given modern political/economic shifts.
+
+---
+
+If you like, I can try to **locate a digital copy** (or link) to the full text (or a PDF) so you can dig in — do you want me to do that?
+
+[1]: https://idl-bnc-idrc.dspacedirect.org/bitstreams/7baefb56-b64a-4dff-8a1b-355f82db1a28/download?utm_source=chatgpt.com "orf.,,{c,r,,; c, 'l~.J (rn.'!> - IDRC Digital Library"
+[2]: https://books.google.com/books/about/Famine_and_Hunger_in_Rural_East_Africa.html?id=BoFJAQAAMAAJ&utm_source=chatgpt.com "Famine and Hunger in Rural East Africa - Patrick John Muzaale"
+[3]: https://catalog.hathitrust.org/Record/100705004.marc?utm_source=chatgpt.com "MARC view: Famine and hunger in rural East Africa"
+[4]: https://scispace.com/pdf/the-organisation-and-delivery-of-social-services-to-rural-2cnmg0zuol.pdf?utm_source=chatgpt.com "the-organisation-and-delivery-of-social-services-to-rural- ..."
+[5]: https://documents1.worldbank.org/curated/en/818631468752379876/pdf/multi-page.pdf?utm_source=chatgpt.com "PUB-7853"
+[6]: https://academic.oup.com/book/2070/chapter/141987885?utm_source=chatgpt.com "Experiences and Lessons | Hunger and Public Action | Oxford Academic"
+
 # 05
 # 06
 # 07
