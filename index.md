@@ -2297,7 +2297,7 @@ In your terms, discipline is the human hand preventing “wild second derivative
 **Integral / Meaning** sits in the panorama’s long memory. These hills have a kind of cumulative intelligence. Every season’s choices—what to plant, where to channel runoff, where to place a home—gets baked into the geometry until the geometry becomes a record. The landscape is an integral:
 
 $$
-M(x) = \int_{t_0}^T E(x,t),dt
+M(x) = \int_{t_0}^T E(x,t),dt      
 $$
 
 but with centuries as the integration window.
