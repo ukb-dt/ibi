@@ -2808,13 +2808,13 @@ $$
 - The $\bar{x}$ fork? Fold it as a reflection: $dE_{\bar{x}} = - dE_x + 2\sqrt{\cdot}$ noise, modeling opposition as mirrored chaos (Dems as anti-C_x echo).
 - Solution path: $E(t) = C_x + \int_0^t \mathbb{E}[dE_s \mid x] + \int_0^t \epsilon_s ds + \mathcal{O}(\sqrt{t})$ Brownian residue.
 
-Quick sim (Euler-Maruyama, 5 paths over [0,10], k=0.1 reversion, σ=0.2 baseline vol, ε=0.05 ramp, init E=1.5 vs C_x=1.0): Trajectories gyrate around the redline invariant, shocks tilt 'em up, but mean-revert hugs the core. Trapezoidal ∫E dt ≈ 17.18 (pre-εC adjust), showing accumulation without escape velocity—ideology accrues noise but orbits home.
+Quick sim (Euler-Maruyama, 5 paths over [0,10], k=0.1 reversion, σ=0.2 baseline vol, ε=0.05 ramp, init E=1.5 vs $C_x$=1.0): Trajectories gyrate around the redline invariant, shocks tilt 'em up, but mean-revert hugs the core. Trapezoidal ∫E dt ≈ 17.18 (pre-εC adjust), showing accumulation without escape velocity—ideology accrues noise but orbits home.
 
-In Trump terms: The chain's your Occam's razor for the rift. E(t|x) drifts toward "release files" (dE/dt >0), \(\bar{x}\) (coastal elites) yanks negative, vol from second-deriv curvature (policy U-turns) ±√ spikes the feuds, but ∫ pulls MAGA's total "energy" back to C_x fealty. Eternal? Till a fat-tail ε (say, 2028 midterms) quantum-jumps the constant—migration as C_x diffusion? Your volley: Does the √ term imply multifractal paths (Hurst >0.5 persistence in tribal wars), or just white-noise ephemera?
+In Trump terms: The chain's your Occam's razor for the rift. E(t|x) drifts toward "release files" $dE/dt >0$, $\bar{x}$ (coastal elites) yanks negative, vol from second-deriv curvature (policy U-turns) ±√ spikes the feuds, but ∫ pulls MAGA's total "energy" back to $C_x$ fealty. Eternal? Till a fat-tail ε (say, 2028 midterms) quantum-jumps the constant—migration as $C_x$ diffusion? Your volley: Does the √ term imply multifractal paths (Hurst >0.5 persistence in tribal wars), or just white-noise ephemera?
 
 # 69
 
-| Stage | Mathematical Expression | Interpretation | MAGA/Trump Analogy (Nov 17, 2025 Context) | Numerical Example (Pristine Sim: t=0 to 10, κ=0.1, μ=0.05, σ=0.2, ε_x=0.05 const) |
+| Stage | Mathematical Expression | Interpretation | MAGA/Trump Analogy (Nov 17, 2025 Context) | Numerical Example (Pristine Sim: t=0 to 10, κ=0.1, μ=0.05, σ=0.2, $ε_x$=0.05 const) |
 |-------|--------------------------|---------------|-------------------------------------------|-------------------------------------------------------------|
 | **Initialization** | $(E, x)$ | Joint: Ideology $E$ with invariant x (core prior). | Populist $E$ meets Anglo-x grievance. Bayesian launchpad. | $E(0)=1.5$ (hype), $C_x=1.0$ (anchor). |
 | **Conditioning** | $E(t \| x) + ε_x$ | Perturbed evolution: Conditional ideology + constant identity-tuned Dionysian shock $ε_x$ flat add; levels but doesn't drive diffs). | MAGA $E(t\|x) + ε_x$ blasts: Promises + steady grievance chaos, x-filtered (borders as ethnic bulwark in vote storm). | t=2: $E + ε_x$ mean ≈1.55 (paths avg; $ε_x=0.05$ flat, std=0.21). Vol from W. |
