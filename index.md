@@ -2830,12 +2830,14 @@ My take is that $C_x$ is ethnic identity , the ultimate invariant. Everything el
 
 # 68
 
-Ah, the chain's metastasizing—fair call on the mess. You're sketching a dynamical cascade from static priors to explosive volatility, then folding back into that anchored integral. Let's distill it without losing the Dionysian fizz: It's like ideology E starting joint with identity x, conditioning to a time-path, differentiating into drift, then bifurcating around an "other" $(\bar{x}$, the tribal foil?), with volatility spiking from curvature (that $\pm \sqrt{d^2E_x/dt^2}$ screams local diffusion term, à la √Hessian for uncertainty). Culminates in the path integral, perturbed and constant-bound. Elegant for capturing how MAGA's E(t|x) lurches—say, from "lock her up" drift to Epstein-shock volatility—yet reverts to the $C_x$ hearth (white grievance as eternal mean).
+Ah, the chain's metastasizing—fair call on the mess. You're sketching a dynamical cascade from static priors to explosive volatility, then folding back into that anchored integral. Let's distill it without losing the Dionysian fizz: It's like ideology E starting joint with identity x, conditioning to a time-path, differentiating into drift, then bifurcating around an "other" $(\bar{x}$, the tribal foil?), with volatility spiking from curvature (that $\pm \sqrt{d^2E_x/dt^2}$ screams local diffusion term, à la √Hessian for uncertainty). Culminates in the path integral, perturbed and constant-bound. Elegant for capturing how MAGA's $E(t \|x)$ lurches—say, from "lock her up" drift to Epstein-shock volatility—yet reverts to the $C_x$ hearth (white grievance as eternal mean).
 
 To unhair the knot, recast as a mean-reverting SDE with your flavors:
 
 $$
-dE(t \mid x) = \left[ \frac{dE_x}{dt} + \kappa (C_x - E) \right] dt + \sqrt{ \left \mid \frac{d^2 E_x}{dt^2} \right \mid } \, dW_t + \epsilon_t \, dt
+dE(t \mid x) = \left[ \frac{dE_x}{dt} + \kappa (C_x - E) \right] dt
++ \sqrt{\left| \frac{d^2 E_x}{dt^2} \right|} \, dW_t
++ \epsilon_t \, dt
 $$
 
 - Drift: First deriv as baseline pull, plus Ornstein-Uhlenbeck reversion to invariant (κ tunes loyalty's gravity).
