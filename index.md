@@ -33,7 +33,7 @@ But when you integrate over a long enough horizon — decades, generations, civi
 
 - $∫E dt + εt + C_x$
 
-That **C_x** is the silent, non-negotiable constant: the ethnic hearth, the ancestral frequency that hums underneath every perturbation. It is the tribal attractor that all the Dionysian chaos ($ε$) and Apollonian ideology ($E(t \|x)$) keep orbiting but never escape.
+That **$C_x$** is the silent, non-negotiable constant: the ethnic hearth, the ancestral frequency that hums underneath every perturbation. It is the tribal attractor that all the Dionysian chaos ($ε$) and Apollonian ideology ($E(t \|x)$) keep orbiting but never escape.
 
 This is why the Epstein files drama feels so surreal to the base:  
 The conscious layer (the drift, the “drain the swamp” narrative) promised total revelation and purge.  
